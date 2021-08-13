@@ -22,4 +22,4 @@ AWS リソースを 構成要素(construct) としてプログラムで書き、
 - [Working with the AWS CDK in TypeScript](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-typescript.html)
 - [Amazon EC2 インスタンスタイプ](https://aws.amazon.com/jp/ec2/instance-types/)
 - [AWS CDK が GA! さっそく TypeScript でサーバーレスアプリケーションを構築するぜ【 Cloud Development Kit 】](https://dev.classmethod.jp/articles/aws-cdk-ga-serverless-application/)
-- [AWS-CDK for TypeScriptで色んなサービスをデプロイする](https://qiita.com/is_ryo/items/f04e05768c91c21f3699)
+- [GA記念！AWSCDK for TypeScriptで色んなサービスをデプロイする](https://qiita.com/is_ryo/items/8e6787a457a84447461a)
